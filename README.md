@@ -9,9 +9,8 @@ This bot connects to a shared database and provides moderation utilities.
 - Add and remove Roblox accounts from the scammer database
 - Syncs with a GitHub Gist for live updates
 - Tracks **username/display name changes**
-- Sends join/leave logs for servers
 - Report system that sends reports to the support server
-- Status rotation and server logging
+- Status rotation
 - Announcement integration so updates can be followed across servers
 
 ---
@@ -21,7 +20,7 @@ This bot connects to a shared database and provides moderation utilities.
 ### 🔒 Moderation Commands
 - **`/addscammer <link> <category>`**  
   ➝ Adds a Roblox account to the database.  
-  *(Requires To be a Verified Scam Watched in Grimmlock)*
+  *(Requires To be a Verified Scam Watcher in Grimmlock)*
 
 - **`/removescammer <link>`**  
   ➝ Removes a Roblox account from the database.  
@@ -43,8 +42,8 @@ This bot connects to a shared database and provides moderation utilities.
 ---
 
 ## 🚀 Getting Started
-1. Invite the bot using [this link](#).  
-2. Join the [Support Server](#).  
+1. Invite the bot using [this link](https://discord.com/oauth2/authorize?client_id=1413233916059320350).  
+2. Join the [Support Server](https://discord.gg/cMHCfdjNjm).  
 3. Use `/support` if you need help at any time.
 
 ---
